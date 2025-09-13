@@ -17,7 +17,8 @@ The entity resolution agent uses a multi-agent approach to identify and match en
 
 - `entity_resolution_pipeline.ipynb` - Complete entity resolution pipeline with multi-agent LangGraph system
 - `.env.example` - Template for environment variables setup
-- Data files: `Abt.csv`, `Buy.csv`, `abt_buy_perfectMapping.csv` (download separately due to size)
+- PowerPoint presentation detailing findings and explanations of the tech stack used
+- Data files: `Abt.csv`, `Buy.csv`, `abt_buy_perfectMapping.csv` (download separately from: https://dbs.uni-leipzig.de/research/projects/benchmark-datasets-for-entity-resolution)
 
 ## Setup
 
