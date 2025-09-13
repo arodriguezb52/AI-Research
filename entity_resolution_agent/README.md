@@ -15,9 +15,10 @@ The entity resolution agent uses a multi-agent approach to identify and match en
 
 ## Files
 
-- `stress_test_pipeline.ipynb` - Main notebook with complete entity resolution pipeline
-- `testing_pipeline.ipynb` - Development and testing framework (if exists)
-- Data files: `Abt.csv`, `Buy.csv`, `abt_buy_perfectMapping.csv` (add your datasets here)
+- `entity_resolution_pipeline.ipynb` - Main notebook with complete entity resolution pipeline
+- Powerpoint detailing the findings and explanations of the TechStack used
+- Data files: `Abt.csv`, `Buy.csv`, `abt_buy_perfectMapping.csv` (Please collect them from the following link:
+- https://dbs.uni-leipzig.de/research/projects/benchmark-datasets-for-entity-resolution
 
 ## Setup
 
