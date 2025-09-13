@@ -13,37 +13,16 @@ This repository is focused on cutting-edge research in artificial intelligence, 
 
 ### 🔍 Entity Resolution Agent
 - **Location**: `entity_resolution_agent/`
-- **Description**: Research on entity resolution using machine learning and LangGraph
+- **Description**: Advanced multi-agent entity resolution system using LangGraph and Neo4j
 - **Key Features**:
-  - Multi-agent pipeline for entity matching
-  - Neo4j graph database integration
-  - Human-in-the-loop labeling system
-  - Stress testing pipeline for performance evaluation
+  - Multi-agent LangGraph workflow with categorical and probability-based decision making
+  - Neo4j graph database integration for product relationship modeling  
+  - OpenAI GPT-4o-mini powered AI agents
+  - Human-in-the-loop labeling system for continuous improvement
+  - Comprehensive evaluation metrics (precision/recall)
 - **Main Files**: 
-  - `stress_test_pipeline.ipynb` - Comprehensive pipeline for stress testing entity resolution
-  - `testing_pipeline.ipynb` - Development and testing framework
-
-### 💰 Financial Agent LangGraph
-- **Location**: `financial_agent_langraph/`
-- **Description**: Financial analysis agent using LangGraph framework for document processing
-- **Key Features**:
-  - Financial document parsing and analysis
-  - GraphRAG implementation for enhanced reasoning
-  - Multi-modal financial data processing
-- **Main Files**:
-  - `financial_analyst_agent.ipynb` - Core financial analysis agent
-  - `financial_analyst_agent_graphRAG.ipynb` - GraphRAG-enhanced version
-  - `clean_agent.ipynb` - Refined and optimized agent implementation
-
-### 🧠 LangGraph Basics
-- **Location**: `langraph_basics/`
-- **Description**: Foundational experiments and learning materials for LangGraph
-- **Key Features**:
-  - GraphRAG experiments and implementations
-  - Advanced reasoning patterns with graph structures
-- **Main Files**:
-  - `2025_AIFF_GraphRAG (1).ipynb` - GraphRAG research and experiments
-  - `2025_AIFF_Reasoning (1).ipynb` - Advanced reasoning pattern exploration
+  - `entity_resolution_pipeline.ipynb` - Complete entity resolution pipeline with multi-agent system
+  - `README.md` - Detailed project documentation and setup instructions
 
 ## Technology Stack
 

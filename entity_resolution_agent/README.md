@@ -15,9 +15,9 @@ The entity resolution agent uses a multi-agent approach to identify and match en
 
 ## Files
 
-- `stress_test_pipeline.ipynb` - Main notebook with complete entity resolution pipeline
-- `testing_pipeline.ipynb` - Development and testing framework (if exists)
-- Data files: `Abt.csv`, `Buy.csv`, `abt_buy_perfectMapping.csv` (add your datasets here)
+- `entity_resolution_pipeline.ipynb` - Complete entity resolution pipeline with multi-agent LangGraph system
+- `.env.example` - Template for environment variables setup
+- Data files: `Abt.csv`, `Buy.csv`, `abt_buy_perfectMapping.csv` (download separately due to size)
 
 ## Setup
 
@@ -37,7 +37,7 @@ The entity resolution agent uses a multi-agent approach to identify and match en
 
 Run the main notebook:
 ```bash
-jupyter notebook stress_test_pipeline.ipynb
+jupyter notebook entity_resolution_pipeline.ipynb
 ```
 
 The pipeline includes:
