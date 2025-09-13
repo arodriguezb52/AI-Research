@@ -54,5 +54,4 @@ neo4j-synth-data/
 *.log
 
 # Large data files that exceed GitHub limits
-# Uncomment if you want to exclude large datasets
-# *.csv
+# CSV files are excluded in specific project subdirectories as needed
