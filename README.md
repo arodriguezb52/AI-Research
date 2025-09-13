@@ -6,8 +6,6 @@ This repository contains various research projects and experiments related to AI
 
 This repository is focused on cutting-edge research in artificial intelligence, specifically:
 - **Entity Resolution**: Advanced techniques for matching and deduplicating entities across datasets
-- **Financial Analysis Agents**: AI-powered agents for financial document analysis and insights
-- **LangGraph Experiments**: Exploration of graph-based language models and reasoning
 
 ## Projects
 
@@ -63,7 +61,7 @@ Navigate to the specific project folder and run the Jupyter notebooks:
 
 ```bash
 cd entity_resolution_agent
-jupyter notebook stress_test_pipeline.ipynb
+jupyter notebook entity_resolution_pipeline.ipynb
 ```
 
 ## Research Methodology
